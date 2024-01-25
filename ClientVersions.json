@@ -1,0 +1,20 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/forge-essentials-client/files",
+	"1.7.10": {
+		"7.5.0": "Added This update checker"
+	},
+	"1.12.2": {
+		"12.4.126": "Added This update checker"
+	},
+	"1.16.5": {
+		"16.0.3": "Added This update checker"
+	},
+	"promos": {
+		"1.7.10-latest": "7.5.0",
+		"1.7.10-recommended": "7.5.0",
+		"1.12.2-latest": "12.4.126",
+		"1.12.2-recommended": "12.4.126",
+		"1.16.5-latest": "16.0.3",
+		"1.16.5-recommended": "16.0.3"
+	}
+}
