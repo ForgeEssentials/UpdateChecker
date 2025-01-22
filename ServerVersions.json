@@ -1,12 +1,31 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/forge-essentials/files",
 	"1.7.10": {
+		"1.4.6.1373": "Several Incremental Fixes",
 		"7.5.0": "Fixed a bunch of back-end and mixin stuff, a new-tag based update checker"
 	},
+	"1.8.9": {
+		"1.8.5.103": "Final 1.8.9 releae before move to 1.10.2",
+		"1.8.6.0": "Lost astual Final 1.8.9 update",
+		"8.7.0": "Re-port of 1.7.10 to 1.8.9, a fully up-to-date 1.8.9 version"
+	},
 	"1.12.2": {
-		"12.4.126": "Fixed Sponge Compat when economy module is disabled, a new-tag based update checker"
+		"12.3.106": "Fixed FTBU Ranks/Config compatibility, data and scripting fixes",
+		"12.3.108": "Added Javascript support to the Signtools module, Fixed a few crashes",
+		"12.3.115": "Scripting fixes, inventory managment fixes",
+		"12.3.116": "The timeout bug that occurs when trying to resolve a player has been fixed.",
+		"12.3.117": "Fix bug with Sponge Compat feature",
+		"12.3.122": "Fix a few edge cases with permissions, Backup Module not saving daily backups, and other msc fixes",
+		"12.3.123": "Couple Fixes and a Forge Gradle Upgrade (14.23.5.2855)",
+		"12.3.124": "Fix a bug with timed command and minor build changes",
+		"12.4.125": "Adds basic discord bridge functionality to the chat module to complement the irc functionality",
+		"12.4.126": "Fixed Sponge Compat when economy module is disabled, a new-tag based update checker",
+		"12.5.0": "Votifier V2 support, Chat logging expansions, Fixed multiple data and class loading issues."
 	},
 	"1.16.5": {
+		"16.0.0": "Initial Version",
+		"16.0.1": "Fixed a bunch of command and general cleanup",
+		"16.0.2": "Fix broken module.cfg file generation, and incompatibility with KotlinForForge",
 		"16.0.3": "Seperated Chat Module, Multiworld and JScripting Ported",
 		"16.0.4": "ScoreBoardColors, Votifier V2 support, Added Support for this update checker"
 	},
@@ -19,8 +38,10 @@
 	"promos": {
 		"1.7.10-latest": "7.5.0",
 		"1.7.10-recommended": "7.5.0",
-		"1.12.2-latest": "12.4.126",
-		"1.12.2-recommended": "12.4.126",
+		"1.8.9-latest": "1.8.5.103",
+		"1.8.9-recommended": "1.8.5.103",
+		"1.12.2-latest": "12.5.0",
+		"1.12.2-recommended": "12.5.0",
 		"1.16.5-latest": "16.0.4",
 		"1.16.5-recommended": "16.0.4",
 		"1.17.1-latest": "17.0.0",
